@@ -13,3 +13,5 @@ IntelliJ
 > - [JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)
 > - [SequenceDiagram](https://plugins.jetbrains.com/plugin/8286-sequencediagram)
 > - [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+
+🦇🦇🦇 Just use [Dracula Theme](https://draculatheme.com/) for everything at this point 🦇🦇🦇
